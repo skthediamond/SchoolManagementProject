@@ -2,6 +2,10 @@
 #include<stdio.h>
 {
 clrscr();
-
+void addstudent()
+{
+printf("Enter new registration no.");
+scanf("%d",&studreg);
+}
 getch();
 }
