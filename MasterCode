@@ -2,6 +2,8 @@
 #include<stdio.h>
 {
 clrscr();
-
+void newfaculty()
+{
+}
 getch();
 }
